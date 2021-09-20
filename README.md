@@ -14,7 +14,7 @@ Unfortunately, the chat room isn't hosted on any webserver so other people won't
 But anyone who is connected to your internet connection will be able to connect to the chatroom by entering `localhost` in the IP box. **Scroll down to see some video examples**
 
 # Hosting the server on a web server.
-**Though** if you want to host the server on a web server you can use [AWS](https://aws.amazon.com/) or [Linode](https://www.linode.com/). There are couple of tutorials which can guide to how to host a server on the following web services, but you cannot use something like `Heroku` to host the server because they are not meant to host TCP Servers.
+**Though** if you want to host the server on a server you can use [AWS](https://aws.amazon.com/) or [Linode](https://www.linode.com/). There are couple of tutorials which can guide to how to host a server on the following web services, but you cannot use something like `Heroku` to host the server because they are not meant to host TCP Servers.
 
 # Video Examples.
 
